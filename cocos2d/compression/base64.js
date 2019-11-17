@@ -14,7 +14,7 @@ var Base64 = {name:'Jacob__Codec__Base64'};
 
 /**
  * <p>
- *    cc.Codec.Base64.decode(input[, unicode=false]) -> String (http://en.wikipedia.org/wiki/Base64).
+ *    cc.Codec.Base64.decode(input[, unicode=true]) -> String (http://en.wikipedia.org/wiki/Base64).
  * </p>
  * @function
  * @param {String} input The base64 encoded string to decode
